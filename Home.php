@@ -9,10 +9,10 @@
  ************************************************************************************/
 $languageStrings = array(
 	'ALVT'                         => 'Migliori Aziende'            , 
-	'PLVT'                         => 'Migliori Opportunità '      , 
+	'PLVT'                         => 'Migliori Opportunit&agrave;'      , 
 	'QLTQ'                         => 'Migliori Preventivi'         , 
-	'CVLVT'                        => 'Indici chiave'               , 
-	'HLT'                          => 'Top Support Tickets'         , 
+	'CVLVT'                        => 'Indici Chiave'               , 
+	'HLT'                          => 'Top Tickets Supporto'         , 
 	'GRT'                          => 'I miei Gruppi'               , 
 	'OLTSO'                        => 'Ordini di Vendita Importanti', 
 	'ILTI'                         => 'Fatture Importanti'          , 
