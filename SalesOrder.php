@@ -10,8 +10,8 @@
 $languageStrings = array(
 	'SINGLE_SalesOrder'            => 'Ordine di Vendita'           , 
 	'LBL_EXPORT_TO_PDF'            => 'Esporta in PDF'              , 
-	'LBL_SEND_MAIL_PDF'            => 'Send Email with PDF'         , // TODO: Review
-	'LBL_ADD_RECORD'               => 'Add Sales Order'             , 
+	'LBL_SEND_MAIL_PDF'            => 'Invia Email con PDF'         ,
+	'LBL_ADD_RECORD'               => 'Aggiungi Ordine di Vendita'       , 
 	'LBL_RECORDS_LIST'             => 'Lista Ordini di Vendita'     , 
 	'LBL_SO_INFORMATION'           => 'Informazioni Ordine di Vendita', 
 	'SalesOrder No'                => 'No. Ordini di Vendita'       , 
@@ -30,8 +30,8 @@ $languageStrings = array(
 	'Payment Duration'             => 'Durata pagamento'            , 
 	'Invoice Status'               => 'Stato fattura'               , 
 	'Sub Total'                    => 'Sub totale'                  , 
-	'AutoCreated'                  => 'AutoCreated'                 , 
-	'Sent'                         => 'Sent'                        , 
-	'Credit Invoice'               => 'Credit Invoice'              , 
-	'Paid'                         => 'Paid'                        , 
+	'AutoCreated'                  => 'Auto creato'                 , 
+	'Sent'                         => 'Inviato'                        , 
+	'Credit Invoice'               => 'Nota accredito'              , 
+	'Paid'                         => 'Pagato'                        , 
 );
