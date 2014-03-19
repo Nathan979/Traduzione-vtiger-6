@@ -8,10 +8,10 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'Potentials'                   => 'Opportunita\''               , 
+	'Potentials'                   => 'Opportunit&agrave;'               , 
 	'SINGLE_Potentials'            => 'Opportunit&agrave;'          , 
-	'LBL_ADD_RECORD'               => 'Add Opportunity'             , 
-	'LBL_RECORDS_LIST'             => 'Opportunities List'          , 
+	'LBL_ADD_RECORD'               => 'Aggiungi Opportunit&agrave;'             , 
+	'LBL_RECORDS_LIST'             => 'Lista Opportunit&agrave;'          , 
 	'LBL_OPPORTUNITY_INFORMATION'  => 'Informazioni Opportunit&agrave;', 
 	'Potential No'                 => 'No. Opportunit&agrave;'      , 
 	'Amount'                       => 'Ammontare'                   , 
@@ -19,11 +19,11 @@ $languageStrings = array(
 	'Sales Stage'                  => 'Stadio di vendita'           , 
 	'Probability'                  => 'Probabilit&agrave; (%)'      , 
 	'Campaign Source'              => 'Fonte Campagna'              , 
-	'Forecast Amount'              => 'Forecast Amount'             , 
-	'Funnel'                       => 'Sales Funnel'                , 
-	'Potentials by Stage'          => 'Opportunities by Stage'      , 
-	'Total Revenue'                => 'Revenue by Salesperson'      , 
-	'Top Potentials'               => 'Top Opportunities'           , 
+	'Forecast Amount'              => 'Previsione di Importo '             , 
+	'Funnel'                       => 'Canalizzazione Vendite'                , 
+	'Potentials by Stage'          => 'Opportunit&agrave; per Stato'      , 
+	'Total Revenue'                => 'Ricavo per Venditori'      , 
+	'Top Potentials'               => 'Miglior Opportunit&agrave;'           , 
 	'Forecast'                     => 'Sales Forecast'              , 
 	'Prospecting'                  => 'In Prospettiva'              , 
 	'Qualification'                => 'Qualificazione'              , 
@@ -38,7 +38,7 @@ $languageStrings = array(
 	'--None--'                     => '--Nessuno--'                 , 
 	'Existing Business'            => 'Business Esistente'          , 
 	'New Business'                 => 'Nuovo Business'              , 
-	'LBL_EXPECTED_CLOSE_DATE_ON'   => 'Expected to close on'        , 
-	'LBL_RELATED_CONTACTS'         => 'Related Contacts'            , // TODO: Review
-	'LBL_RELATED_PRODUCTS'         => 'Related Products'            , // TODO: Review
+	'LBL_EXPECTED_CLOSE_DATE_ON'   => 'Prevista chiusura il'        , 
+	'LBL_RELATED_CONTACTS'         => 'Contatto relativo'            ,
+	'LBL_RELATED_PRODUCTS'         => 'Prodotto relativo'            ,
 );
