@@ -10,7 +10,7 @@
 $languageStrings = array(
 	'Accounts'                     => 'Aziende'                     , 
 	'SINGLE_Accounts'              => 'Azienda'                     , 
-	'LBL_ADD_RECORD'               => 'Add Organization'            , 
+	'LBL_ADD_RECORD'               => 'Aggiungi Azienda'            , 
 	'LBL_RECORDS_LIST'             => 'Lista Aziende'               , 
 	'LBL_ACCOUNT_INFORMATION'      => 'Informazioni Azienda'        , 
 	'LBL_SHOW_ACCOUNT_HIERARCHY'   => 'Mostra gerarchia Aziende'    , 
@@ -34,12 +34,12 @@ $languageStrings = array(
 	'Reseller'                     => 'Rivenditore'                 , 
 	'LBL_START_DATE'               => 'Data Inizio'                 , 
 	'LBL_END_DATE'                 => 'Data Fine'                   , 
-	'LBL_DUPLICATES_EXIST'         => 'Organization Name already exists', 
-	'LBL_COPY_SHIPPING_ADDRESS'    => 'Copy Shipping Address'       , // TODO: Review
-	'LBL_COPY_BILLING_ADDRESS'     => 'Copy Billing Address'        , // TODO: Review
+	'LBL_DUPLICATES_EXIST'         => 'Il nome Azienda esiste gi&agrave;', 
+	'LBL_COPY_SHIPPING_ADDRESS'    => 'Copia Indirizzo Spedizione'       , 
+	'LBL_COPY_BILLING_ADDRESS'     => 'Copia Indirizzo Fatturazione'        , 
 );
 $jsLanguageStrings = array(
-	'LBL_RELATED_RECORD_DELETE_CONFIRMATION' => 'Are you sure you want to Delete?', 
-	'LBL_DELETE_CONFIRMATION'      => 'Deleting this Organization will remove its related Opportunities & Quotes. Are you sure you want to delete this Organization?', 
-	'LBL_MASS_DELETE_CONFIRMATION' => 'Deleting this Organization will remove its related Opportunities & Quotes. Are you sure you want to delete this Organization?', 
+	'LBL_RELATED_RECORD_DELETE_CONFIRMATION' => 'Sei sicuro di voler cancellare?', 
+	'LBL_DELETE_CONFIRMATION'      => 'Cancellando questa azienda rimuoverai le relative Opportunit&agrave; e Preventivi. Sei sicuro di voler cancellare tale azienda?', 
+	'LBL_MASS_DELETE_CONFIRMATION' => 'Cancellando queste aziende rimuoverai le relative Opportunit&agrave; e Preventivi. Sei sicuro di voler cancellare tali aziende?', 
 );
