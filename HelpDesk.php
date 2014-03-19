@@ -8,20 +8,20 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'HelpDesk'                     => 'Assistenza Clienti'          , 
+	'HelpDesk'                     => 'Tickets'          , 
 	'SINGLE_HelpDesk'              => 'Ticket'                      , 
-	'LBL_ADD_RECORD'               => 'Add Ticket'                  , 
-	'LBL_RECORDS_LIST'             => 'Ticket List'                 , 
+	'LBL_ADD_RECORD'               => 'Aggiungi Ticket'                  , 
+	'LBL_RECORDS_LIST'             => 'Lista Ticket'                 , 
 	'LBL_TICKET_INFORMATION'       => 'Informazioni Ticket'         , 
 	'LBL_TICKET_RESOLUTION'        => 'Informazioni Soluzione'      , 
-	'Ticket No'                    => 'Biglietto n.'                , 
+	'Ticket No'                    => 'Ticket n.'                , 
 	'Severity'                     => 'Importanza'                  , 
 	'Update History'               => 'Storico Aggiornamenti'       , 
-	'Hours'                        => 'Orario'                      , 
+	'Hours'                        => 'Ore'                      , 
 	'Days'                         => 'Giorni'                      , 
 	'Title'                        => 'Titolo'                      , 
 	'Solution'                     => 'Soluzione'                   , 
-	'From Portal'                  => 'From Portal'                 , 
+	'From Portal'                  => 'Da Portale'                 , 
 	'Big Problem'                  => 'Grosso Problema'             , 
 	'Small Problem'                => 'Piccolo Problema'            , 
 	'Other Problem'                => 'Altro Problema'              , 
@@ -37,7 +37,7 @@ $languageStrings = array(
 	'Closed'                       => 'Chiuso'                      , 
 	'LBL_STATUS'                   => 'Stato'                       , 
 	'LBL_SEVERITY'                 => 'Importanza'                  , 
-	'LBL_CONVERT_FAQ'              => 'Convert to FAQ'              , 
+	'LBL_CONVERT_FAQ'              => 'Converti in FAQ'              , 
 	'LBL_RELATED_TO'               => 'Relazionato a'               ,
 
 	//added to support i18n in ticket mails
@@ -52,7 +52,7 @@ $languageStrings = array(
 	'replied' => 'risposto',
 	'reply' => 'C&#39;&egrave; una risposta a ',
 	'customer_portal' => 'nel Portale Clienti di vTiger',
-	'link' => 'Puoi usare il seguente link per visualizzare le risposte date:',
+	'link' => 'Puo usare il seguente link per visualizzare le risposte date:',
 	'Thanks' => 'Grazie',
 	'Support_team' => 'Team di supporto vTiger',
 
